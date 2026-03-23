@@ -1,0 +1,719 @@
+[
+    {
+        "name": "Accessories"
+    },
+    {
+        "name": "Addons Lib"
+    },
+    {
+        "name": "Adrenaline Rush : Second Chance"
+    },
+    {
+        "name": "AppleSkin"
+    },
+    {
+        "name": "Aquaculture 2"
+    },
+    {
+        "name": "Aquaculture Delight"
+    },
+    {
+        "name": "Architectury"
+    },
+    {
+        "name": "BadOptimizations"
+    },
+    {
+        "name": "Ballistix"
+    },
+    {
+        "name": "Balm"
+    },
+    {
+        "name": "Better Fishtanks"
+    },
+    {
+        "name": "Better Furnaces Reforged"
+    },
+    {
+        "name": "Better lib"
+    },
+    {
+        "name": "BetterDays"
+    },
+    {
+        "name": "BetterF3"
+    },
+    {
+        "name": "Biomes O' Plenty"
+    },
+    {
+        "name": "BjornLib"
+    },
+    {
+        "name": "Blueprint"
+    },
+    {
+        "name": "Breath & Sweat"
+    },
+    {
+        "name": "Brewin' And Chewin'"
+    },
+    {
+        "name": "Burnt 1.8"
+    },
+    {
+        "name": "CC: BallistiX"
+    },
+    {
+        "name": "CC: Ballistix Reborn"
+    },
+    {
+        "name": "CC: Tweaked"
+    },
+    {
+        "name": "Celestria"
+    },
+    {
+        "name": "Chunk Activity Tracker"
+    },
+    {
+        "name": "Chunky"
+    },
+    {
+        "name": "Chunky Offline"
+    },
+    {
+        "name": "Cloth Config v15 API"
+    },
+    {
+        "name": "Cold Sweat"
+    },
+    {
+        "name": "Compressed Fuel"
+    },
+    {
+        "name": "Concurrent Chunk Management Engine"
+    },
+    {
+        "name": "Configurable"
+    },
+    {
+        "name": "Continuity"
+    },
+    {
+        "name": "Cool Rain"
+    },
+    {
+        "name": "Corpse"
+    },
+    {
+        "name": "Cosy Critters & Creepy Crawlies"
+    },
+    {
+        "name": "Crafting Tweaks"
+    },
+    {
+        "name": "Create"
+    },
+    {
+        "name": "Create Aquatic Ambitions"
+    },
+    {
+        "name": "Create Big Cannons"
+    },
+    {
+        "name": "Create Bits 'n' Bobs"
+    },
+    {
+        "name": "Create Crafts & (More) Additions"
+    },
+    {
+        "name": "Create Crafts & Additions"
+    },
+    {
+        "name": "Create Deco"
+    },
+    {
+        "name": "Create Diesel Generators"
+    },
+    {
+        "name": "Create Dynamic Light"
+    },
+    {
+        "name": "Create Factory Logistics"
+    },
+    {
+        "name": "Create Goggles"
+    },
+    {
+        "name": "Create Horse Power"
+    },
+    {
+        "name": "Create Jetpack"
+    },
+    {
+        "name": "Create Let The Adventure Begin"
+    },
+    {
+        "name": "Create Liquid Fuel"
+    },
+    {
+        "name": "Create Low-Heated"
+    },
+    {
+        "name": "Create More: Parallel Pipes"
+    },
+    {
+        "name": "Create Nuclear"
+    },
+    {
+        "name": "Create Optical Mod"
+    },
+    {
+        "name": "Create Ore Excavation"
+    },
+    {
+        "name": "Create Photomovement"
+    },
+    {
+        "name": "Create Quality of Life"
+    },
+    {
+        "name": "Create Slice & Dice"
+    },
+    {
+        "name": "Create Stuff & Additions"
+    },
+    {
+        "name": "Create Stuff and Addition Tank Fix"
+    },
+    {
+        "name": "Create Train Physics"
+    },
+    {
+        "name": "Create: Additional Logistics"
+    },
+    {
+        "name": "Create: Advanced Logistics"
+    },
+    {
+        "name": "Create: Alcohol Industry"
+    },
+    {
+        "name": "Create: Bells & Whistles"
+    },
+    {
+        "name": "Create: Better Motors"
+    },
+    {
+        "name": "Create: Blaze Burner Fuels"
+    },
+    {
+        "name": "Create: Blazing Hot"
+    },
+    {
+        "name": "Create: CC Better Recipes"
+    },
+    {
+        "name": "Create: Central Kitchen"
+    },
+    {
+        "name": "Create: Chimneys"
+    },
+    {
+        "name": "Create: Cold Sweat"
+    },
+    {
+        "name": "Create: Compatible Storage"
+    },
+    {
+        "name": "Create: Connected"
+    },
+    {
+        "name": "Create: Copycats+"
+    },
+    {
+        "name": "Create: Defensive"
+    },
+    {
+        "name": "Create: Dragons Plus"
+    },
+    {
+        "name": "Create: Dreams n' Desires"
+    },
+    {
+        "name": "Create: Enchantment Industry"
+    },
+    {
+        "name": "Create: Escalated"
+    },
+    {
+        "name": "Create: Extra Gauges"
+    },
+    {
+        "name": "Create: Fluid"
+    },
+    {
+        "name": "Create: Food Filling"
+    },
+    {
+        "name": "Create: Garnished"
+    },
+    {
+        "name": "Create: Interiors"
+    },
+    {
+        "name": "Create: Meta Logistics"
+    },
+    {
+        "name": "Create: New Age"
+    },
+    {
+        "name": "Create: Pantographs & Wires"
+    },
+    {
+        "name": "Create: Power Grid"
+    },
+    {
+        "name": "Create: Recipe Conflict Fixer"
+    },
+    {
+        "name": "Create: Synthetic Pressure"
+    },
+    {
+        "name": "Create: The Factory Must Grow"
+    },
+    {
+        "name": "Create: Threaded Trains"
+    },
+    {
+        "name": "Create: Transmission"
+    },
+    {
+        "name": "Create: Ultimate Factory"
+    },
+    {
+        "name": "Create: Unlimited Logistics"
+    },
+    {
+        "name": "Create: Winery"
+    },
+    {
+        "name": "Critters and Companions"
+    },
+    {
+        "name": "Critters n' Crawlers"
+    },
+    {
+        "name": "Darkness Mod"
+    },
+    {
+        "name": "Deeper Oceans"
+    },
+    {
+        "name": "Deimos"
+    },
+    {
+        "name": "Design n' Decor"
+    },
+    {
+        "name": "Distant Horizons"
+    },
+    {
+        "name": "Does It Tick?"
+    },
+    {
+        "name": "DragonLib"
+    },
+    {
+        "name": "Dynamic Trees"
+    },
+    {
+        "name": "Electrodynamics"
+    },
+    {
+        "name": "EntityCulling"
+    },
+    {
+        "name": "Exposure"
+    },
+    {
+        "name": "Exposure Polaroid"
+    },
+    {
+        "name": "Exposure: Expanded"
+    },
+    {
+        "name": "Extra Create Recipes"
+    },
+    {
+        "name": "F708 Guns Mod"
+    },
+    {
+        "name": "Factory API"
+    },
+    {
+        "name": "Farmer's Delight"
+    },
+    {
+        "name": "Ferrite Core"
+    },
+    {
+        "name": "Flashlight"
+    },
+    {
+        "name": "FokusAPI"
+    },
+    {
+        "name": "Forgified Fabric API"
+    },
+    {
+        "name": "Fowl Play"
+    },
+    {
+        "name": "Furnection"
+    },
+    {
+        "name": "Fusion"
+    },
+    {
+        "name": "Fzzy Config"
+    },
+    {
+        "name": "GeckoLib 4"
+    },
+    {
+        "name": "GlitchCore"
+    },
+    {
+        "name": "Gravestone Mod"
+    },
+    {
+        "name": "ImmediatelyFast"
+    },
+    {
+        "name": "Immersive Aircraft"
+    },
+    {
+        "name": "Immersive Aircraft: Better Engines"
+    },
+    {
+        "name": "Immersive Engineering"
+    },
+    {
+        "name": "Immersive Lanterns"
+    },
+    {
+        "name": "Immersive Optimization"
+    },
+    {
+        "name": "ImmersiveOres"
+    },
+    {
+        "name": "Iris"
+    },
+    {
+        "name": "Jade"
+    },
+    {
+        "name": "Jade Addons"
+    },
+    {
+        "name": "Jade Modded Entities"
+    },
+    {
+        "name": "Jake's Build Tools"
+    },
+    {
+        "name": "JourneyMap Integration"
+    },
+    {
+        "name": "Journeymap-NeoForge"
+    },
+    {
+        "name": "Just Enough Items"
+    },
+    {
+        "name": "Kotlin for Forge"
+    },
+    {
+        "name": "LYIVX's Core"
+    },
+    {
+        "name": "Ladders Made Better"
+    },
+    {
+        "name": "Leaves Be Gone"
+    },
+    {
+        "name": "Let Sleeping Dogs Lie"
+    },
+    {
+        "name": "LightTheWay"
+    },
+    {
+        "name": "Lithium"
+    },
+    {
+        "name": "Lithostitched"
+    },
+    {
+        "name": "M.R.U"
+    },
+    {
+        "name": "Macaw's Biomes O' Plenty"
+    },
+    {
+        "name": "Macaw's Bridges"
+    },
+    {
+        "name": "Macaw's Doors"
+    },
+    {
+        "name": "Macaw's Fences and Walls"
+    },
+    {
+        "name": "Macaw's Furniture"
+    },
+    {
+        "name": "Macaw's Holidays"
+    },
+    {
+        "name": "Macaw's Lights and Lamps"
+    },
+    {
+        "name": "Macaw's Paths and Pavings"
+    },
+    {
+        "name": "Macaw's Roofs"
+    },
+    {
+        "name": "Macaw's Stairs and Balconies"
+    },
+    {
+        "name": "Macaw's Trapdoors"
+    },
+    {
+        "name": "Macaw's Windows"
+    },
+    {
+        "name": "More Create Burners"
+    },
+    {
+        "name": "MoreLadders"
+    },
+    {
+        "name": "Mouse Tweaks"
+    },
+    {
+        "name": "Neruina"
+    },
+    {
+        "name": "Night Lights"
+    },
+    {
+        "name": "No See No Tick"
+    },
+    {
+        "name": "NoWeatherSkip"
+    },
+    {
+        "name": "Observable"
+    },
+    {
+        "name": "Ocean's Delight"
+    },
+    {
+        "name": "Old infrastructure"
+    },
+    {
+        "name": "Particle Core"
+    },
+    {
+        "name": "Particle Rain"
+    },
+    {
+        "name": "Party Creepers"
+    },
+    {
+        "name": "Patchouli"
+    },
+    {
+        "name": "Personality"
+    },
+    {
+        "name": "Platforms"
+    },
+    {
+        "name": "PneumaticCraft: Repressurized"
+    },
+    {
+        "name": "Polymorph"
+    },
+    {
+        "name": "Project Atmosphere"
+    },
+    {
+        "name": "Puzzles Lib"
+    },
+    {
+        "name": "RainShouldExtinguishCampfires"
+    },
+    {
+        "name": "Rechiseled"
+    },
+    {
+        "name": "Rechiseled: Create"
+    },
+    {
+        "name": "Reese's Sodium Options"
+    },
+    {
+        "name": "Refined Storage"
+    },
+    {
+        "name": "Resourceful Lib"
+    },
+    {
+        "name": "Ritchie's Projectile Library"
+    },
+    {
+        "name": "Serene Seasons"
+    },
+    {
+        "name": "Serene Seasons Plus"
+    },
+    {
+        "name": "Serene Shrubbery"
+    },
+    {
+        "name": "ShetiPhianCore"
+    },
+    {
+        "name": "Silent Lib"
+    },
+    {
+        "name": "Silent's Gems"
+    },
+    {
+        "name": "Simple Diving Gear"
+    },
+    {
+        "name": "Simple Inventory Sorter"
+    },
+    {
+        "name": "Sinytra Connector"
+    },
+    {
+        "name": "Small Ships"
+    },
+    {
+        "name": "SmartBrainLib"
+    },
+    {
+        "name": "Smelting Sand in a Blast Furnace"
+    },
+    {
+        "name": "Snow Under Trees"
+    },
+    {
+        "name": "Sodium"
+    },
+    {
+        "name": "Sodium Dynamic Lights"
+    },
+    {
+        "name": "Sodium Extra"
+    },
+    {
+        "name": "Sodium Options API"
+    },
+    {
+        "name": "Sophisticated Backpacks"
+    },
+    {
+        "name": "Sophisticated Core"
+    },
+    {
+        "name": "Sophisticated Storage"
+    },
+    {
+        "name": "Sound Physics Remastered"
+    },
+    {
+        "name": "Sounds"
+    },
+    {
+        "name": "SuperMartijn642's Config Library"
+    },
+    {
+        "name": "SuperMartijn642's Core Lib"
+    },
+    {
+        "name": "Tectonic"
+    },
+    {
+        "name": "TerraBlender"
+    },
+    {
+        "name": "Terralith"
+    },
+    {
+        "name": "The Twilight Forest"
+    },
+    {
+        "name": "Thirst Was Taken"
+    },
+    {
+        "name": "Tpsum"
+    },
+    {
+        "name": "Twilight Flavors & Delight"
+    },
+    {
+        "name": "TxniLib"
+    },
+    {
+        "name": "Uppers"
+    },
+    {
+        "name": "VanitySlots"
+    },
+    {
+        "name": "Veil"
+    },
+    {
+        "name": "Voltaic"
+    },
+    {
+        "name": "Waystones"
+    },
+    {
+        "name": "YetAnotherConfigLib"
+    },
+    {
+        "name": "[Let's Do] Brewery"
+    },
+    {
+        "name": "[Let's Do] Farm & Charm"
+    },
+    {
+        "name": "gaboulibs"
+    },
+    {
+        "name": "iChunUtil"
+    },
+    {
+        "name": "oωo"
+    },
+    {
+        "name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar.duplicate"
+    },
+    {
+        "name": "spark"
+    },
+    {
+        "name": "tctcore"
+    }
+]
